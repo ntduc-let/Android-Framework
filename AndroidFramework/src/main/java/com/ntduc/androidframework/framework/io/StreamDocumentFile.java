@@ -68,7 +68,7 @@ public class StreamDocumentFile extends DocumentFile
         return mStream.friendlyName;
     }
 
-    public DocumentFile getStream()
+    public StreamInfo getStream()
     {
         return mStream;
     }
