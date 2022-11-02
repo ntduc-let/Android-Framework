@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Android Framework"
+rootProject.name = "AndroidFramework"
 include ':app'
 include ':AndroidFramework'
